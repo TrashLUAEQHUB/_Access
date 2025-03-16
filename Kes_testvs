@@ -1,5 +1,5 @@
 local roblox_ = {}
-if _G.roblox = "P@^s then
+if _G.roblox = "P@^s" then
 print("vaild")
 else
 print("Failed")
